@@ -44,7 +44,8 @@ p, .banner-contents {
 
 img {
   height: 5em;
-  margin-left: 75px;
+  /* changed this from margin-left: 75px; to the one below */
+  margin: auto;
 }
 
 .about {
